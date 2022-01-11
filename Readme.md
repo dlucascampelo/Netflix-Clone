@@ -18,6 +18,5 @@
 
 -  [React.js](https://pt-br.reactjs.org/)
 -  [JavaScript](https://www.javascript.com/)
--  [React-icons](https://react-icons.netlify.com/)
 -  [Styled-Components](https://styled-components.com/)
 -  [Axios](https://github.com/axios/axios)
